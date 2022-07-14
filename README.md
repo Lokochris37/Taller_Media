@@ -1,6 +1,6 @@
 # Taller_Media
 
-Jose Luis Manco Velásquez
-Juan Jose Correa Bustamante
+1.Jose Luis Manco Velásquez
+2.Juan Jose Correa Bustamante
 
 I.E Santa Elena
